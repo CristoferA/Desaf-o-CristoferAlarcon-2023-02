@@ -1,8 +1,8 @@
 # Desafio-CristoferAlarcon-2023-02
 Blog de Música con Laravel:
 
-El blog de música será un sitio web que mostrará los últimos sencillos o álbumes que hayan sido
-éxitos a lo largo del año 2023. Los usuarios podrán acceder al sitio de dos maneras: como
+El blog de música es un sitio web que muestra los últimos sencillos o álbumes que han sido
+éxitosos a lo largo del año 2023. Los usuarios pueden acceder al sitio de dos maneras: como
 administrador o como visitante.
 Usuarios
 1. Administrador:Este usuario podrá acceder a una plataforma de administración a través de
